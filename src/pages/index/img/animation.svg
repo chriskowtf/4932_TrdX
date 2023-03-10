@@ -282,7 +282,7 @@
     <rect x="699.5" y="109.1" width="151" height="18" rx="7.05" fill="#70c17c"/>
     <text transform="translate(711.4 124.5)" font-size="20" fill="#fff" font-family="ClashDisplay-Semibold, ClashDisplay Semibold" font-weight="600"><tspan letter-spacing="-0.07em">T</tspan><tspan x="8.44" y="0">AKE P</tspan><tspan x="56.24" y="0" letter-spacing="0em">R</tspan><tspan x="67.06" y="0">OFIT</tspan></text>
   </g>
-  <g>
+  <g id="priceLine">
     <g>
       <line x1="80.5" y1="614.22" x2="86.5" y2="614.22" fill="none" stroke="#b9d5e3" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
       <line x1="98.33" y1="614.22" x2="423.59" y2="614.22" fill="none" stroke="#b9d5e3" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="11.83 11.83"/>
